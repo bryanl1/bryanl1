@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola! 👋
+
+- 🔭 I’m currently working on some ML projects.
+- 🌱 I’m currently learning Go, Rust, and on getting better with PyTorch
 
 <!--
 **bryanl1/bryanl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
