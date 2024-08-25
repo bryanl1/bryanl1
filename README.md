@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-- 🔭 I’m currently working on some ML projects.
+- 🔭 I’m currently working on some ML studies.
 - 🌱 I’m currently learning Go, Rust, and on getting better with PyTorch
 
 <!--
