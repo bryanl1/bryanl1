@@ -1,7 +1,7 @@
 ### Hola! 👋
 
-- 🔭 I’m currently working on some graphics and ML studies.
-- 🌱 I’m currently learning Go, Rust, and on getting better with PyTorch and C++
+- 🔭 I’m currently working on some graphics, web, and ML studies.
+- 🌱 I’m currently learning TS, Go, Rust, and on getting better with PyTorch and C++
 
 <!--
 **bryanl1/bryanl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
